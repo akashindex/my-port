@@ -2,7 +2,7 @@
 
 }/*max-width:1680px*/
 @media screen and (max-width:1440px){
-	.single-about-img img {max-width:100%;}
+	.single-about-img img {max-width:100%; margin-right:10% ;}
 	.single-about-img:before,.about-list-icon{width: 100%;}
 }/*max-width:1440px*/
 

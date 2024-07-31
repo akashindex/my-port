@@ -62,11 +62,15 @@
 }/*max-width:767px*/
 
 @media screen and (max-width: 660px){
-
-}/*max-width:660px*/
+    .container {
+        width: 400px;
+    }
+}
 
 @media screen and (max-width: 640px){
-
+ .container {
+        width: 400px;
+    }
 }/*max-width:640px*/
 
 @media screen and (max-width: 580px){
